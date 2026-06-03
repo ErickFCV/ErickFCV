@@ -1,4 +1,6 @@
 # ¡Hola! Soy Erick 👋
+<img width="1375" height="768" alt="Gemini_Generated_Image_8lcmro8lcmro8lcm" src="https://github.com/user-attachments/assets/5cdd7559-fb7d-4872-9314-9e78697c45aa" />
+
 
 Un apasionado por la tecnología, el desarrollo de software y la ingeniería. Me motiva automatizar procesos, resolver problemas complejos y aprender continuamente nuevas herramientas para transformar ideas en líneas de código.
 
